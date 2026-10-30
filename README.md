@@ -1,4 +1,4 @@
-# A1Web engineering standards
+# Stan Carver II's Engineering Standards
 
 Reusable architecture decisions, engineering policies, and AI-agent standards for A1Web applications.
 
