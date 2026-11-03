@@ -11,6 +11,7 @@ Product-specific repositories may adopt these standards by immutable tag or comm
 ## Standards
 
 - `standards/AWS-0001-localization-internationalization-accessibility.md`
+- `standards/AWS-0004-worktrunk-bounded-adoption.md`
 
 ## ADRs
 
