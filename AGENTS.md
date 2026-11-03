@@ -22,3 +22,7 @@ Repository-local policy in an adopting product may add product-specific gates. I
 - Preserve native platform localization and accessibility mechanisms.
 - Treat shared standards as semantic policy, not as a mandate for a single shared runtime, framework, or file format.
 - Never commit secrets, customer data, credentials, certificates, private keys, provisioning profiles, store credentials, or proprietary editable marketing masters.
+
+## Local project layout
+
+Use `~/Projects/<owner>/<repo>` for local checkouts and preserve the repository’s existing worktree layout. For repositories owned by `scarver2`, use `~/Projects/scarver2/<repo>` in place of `~/Projects/OSS/<repo>`. For example, use `~/Projects/scarver2/howdy-world` for `scarver2/howdy-world`.
